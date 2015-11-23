@@ -1,0 +1,29 @@
+import java.net.*;
+import java.io.*;
+
+public class TcpServer{
+    public static void main(String [] args){
+        try{
+            ServerSocket ss = new ServerSocket(58849);
+            Socket s = ss.accept();
+
+            InputStream ips = s.getInputStream();
+            OutputStream ops = s.getOutputStream();
+
+            byte [] buf = new byte[1024];
+            String str="x";
+            System.out.println("start ...");
+            while(!(str.equals("over"))){
+                BufferedReader br = new BufferedReader(new InputStreamReader(ips)); //BufferedReader-InputStreamReader
+                System.out.println(br.readLine()); //BufferedReader.readLine()
+            }
+            ips.close();
+            ops.close();
+            s.close();
+            ss.close();
+        }
+        catch(Exception e){
+            e.printStackTrace();
+        }
+    }
+}
