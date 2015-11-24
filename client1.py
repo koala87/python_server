@@ -35,7 +35,15 @@ class Client(threading.Thread):
             pac.set_body(msg)
             pac.set_conn(self._sock)
             pac.send()
-            #self._sock.send(msg)
+
+            buf = self._sock.recv(1024)
+            header = buf[0:24]
+            author, version, request, length, verify, device = struct.unpack("6I", header)
+            body = buf[24:]
+            print 'receive header:(%d, %d, %d, %d, %d, %d)' % (author, version, request, length, verify, device)
+            print 'receive body: %d %s' % (len(body), body)
+            
+
             time.sleep(1)
 
     def stop(self):
@@ -60,4 +68,6 @@ if __name__ == '__main__':
     
     for i in threads: 
         i.start()
-        
+    
+    #for i in threads:
+    #    i.stop()
