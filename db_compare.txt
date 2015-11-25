@@ -1,0 +1,5 @@
+database:::yiqiding  
+ is not exsitdatabase:::yiqiding_info  
+ is not exsitdatabase:::yqcchaindb  
+ is not exsitdatabase:::yqcdb  
+ is not exsit

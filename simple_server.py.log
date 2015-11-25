@@ -1,0 +1,305 @@
+[Wed, 25 Nov 2015 14:00:29 - 78617  - MainThread - INFO    ]	start server ...
+[Wed, 25 Nov 2015 14:00:29 - 78617  - MainThread - INFO    ]	listen localhost port 58849 ...
+[Wed, 25 Nov 2015 14:00:29 - 78617  - MainThread - INFO    ]	listen localhost port 3050 ...
+[Wed, 25 Nov 2015 14:00:29 - 78617  - MainThread - INFO    ]	listen localhost port 25377 ...
+[Wed, 25 Nov 2015 14:00:29 - 78617  - MainThread - INFO    ]	listen localhost port 11235 ...
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 1 from 127.0.0.1:54399
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 2 from 127.0.0.1:54400
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 3 from 127.0.0.1:54401
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 4 from 127.0.0.1:54402
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 5 from 127.0.0.1:54403
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 6 from 127.0.0.1:54404
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 7 from 127.0.0.1:54405
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 8 from 127.0.0.1:54406
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 9 from 127.0.0.1:54407
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 10 from 127.0.0.1:54408
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 11 from 127.0.0.1:54409
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 12 from 127.0.0.1:54410
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 13 from 127.0.0.1:54411
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 14 from 127.0.0.1:54412
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 15 from 127.0.0.1:54413
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 16 from 127.0.0.1:54414
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 17 from 127.0.0.1:54415
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 18 from 127.0.0.1:54416
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 19 from 127.0.0.1:54417
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 20 from 127.0.0.1:54418
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 21 from 127.0.0.1:54419
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54400
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54401
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54402
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54399
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 22 from 127.0.0.1:54420
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 23 from 127.0.0.1:54421
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 24 from 127.0.0.1:54422
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 25 from 127.0.0.1:54423
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54400
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54401
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54402
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54399
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54407
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54403
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54404
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54405
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54406
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54408
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 26 from 127.0.0.1:54424
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 27 from 127.0.0.1:54425
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 28 from 127.0.0.1:54426
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 29 from 127.0.0.1:54427
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 30 from 127.0.0.1:54428
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 31 from 127.0.0.1:54429
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54407
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54403
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54404
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54405
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54406
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54408
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54409
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54410
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54411
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54412
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54413
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 32 from 127.0.0.1:54430
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 33 from 127.0.0.1:54431
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 34 from 127.0.0.1:54432
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 35 from 127.0.0.1:54433
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 36 from 127.0.0.1:54434
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 37 from 127.0.0.1:54435
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 38 from 127.0.0.1:54436
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 39 from 127.0.0.1:54437
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 40 from 127.0.0.1:54438
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 41 from 127.0.0.1:54439
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 42 from 127.0.0.1:54440
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 43 from 127.0.0.1:54441
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 44 from 127.0.0.1:54442
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 45 from 127.0.0.1:54443
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 46 from 127.0.0.1:54444
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54409
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54410
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54411
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54412
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54413
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54414
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54415
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54416
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54417
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54418
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54419
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54420
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54421
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 47 from 127.0.0.1:54445
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 48 from 127.0.0.1:54446
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 49 from 127.0.0.1:54447
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 50 from 127.0.0.1:54448
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 51 from 127.0.0.1:54449
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 52 from 127.0.0.1:54450
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 53 from 127.0.0.1:54451
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 54 from 127.0.0.1:54452
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 55 from 127.0.0.1:54453
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54414
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54415
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54416
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54417
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54418
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54419
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54420
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54421
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54422
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54423
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54424
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54425
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54426
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54427
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54428
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54429
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54430
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54432
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 56 from 127.0.0.1:54454
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 57 from 127.0.0.1:54455
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 58 from 127.0.0.1:54456
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 59 from 127.0.0.1:54457
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 60 from 127.0.0.1:54458
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 61 from 127.0.0.1:54459
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 62 from 127.0.0.1:54460
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 63 from 127.0.0.1:54461
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 64 from 127.0.0.1:54462
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 65 from 127.0.0.1:54463
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 66 from 127.0.0.1:54464
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 67 from 127.0.0.1:54465
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 68 from 127.0.0.1:54466
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 69 from 127.0.0.1:54467
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 70 from 127.0.0.1:54468
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 71 from 127.0.0.1:54469
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 72 from 127.0.0.1:54470
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54422
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54423
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54424
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54425
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54426
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54427
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54428
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54429
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54430
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54432
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54433
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54434
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54435
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54436
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54437
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54431
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 73 from 127.0.0.1:54471
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 74 from 127.0.0.1:54472
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 75 from 127.0.0.1:54473
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 76 from 127.0.0.1:54474
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 77 from 127.0.0.1:54475
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 78 from 127.0.0.1:54476
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 79 from 127.0.0.1:54477
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 80 from 127.0.0.1:54478
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 81 from 127.0.0.1:54479
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 82 from 127.0.0.1:54480
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 83 from 127.0.0.1:54481
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 84 from 127.0.0.1:54482
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 85 from 127.0.0.1:54483
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 86 from 127.0.0.1:54484
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 87 from 127.0.0.1:54485
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 88 from 127.0.0.1:54486
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54433
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54434
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54435
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54436
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54437
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54431
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54438
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54439
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54440
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54441
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54442
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54444
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 89 from 127.0.0.1:54487
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 90 from 127.0.0.1:54488
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 91 from 127.0.0.1:54489
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 92 from 127.0.0.1:54490
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 93 from 127.0.0.1:54491
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 94 from 127.0.0.1:54492
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 95 from 127.0.0.1:54493
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 96 from 127.0.0.1:54494
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 97 from 127.0.0.1:54495
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 98 from 127.0.0.1:54496
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54438
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54439
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54440
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54441
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54442
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54444
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54446
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54447
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54448
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54449
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54450
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54451
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54452
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54453
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54443
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54445
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 99 from 127.0.0.1:54497
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - INFO    ]	new app connection # 100 from 127.0.0.1:54498
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54446
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54447
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54448
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54449
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54450
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54451
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54452
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54453
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54443
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54445
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54454
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54456
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54457
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54458
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54459
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54460
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54461
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54462
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54463
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54464
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54455
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54454
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54456
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54457
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54458
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54459
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54460
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54461
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54462
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54463
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54464
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54455
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54465
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54466
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54467
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54468
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54469
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54470
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54471
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54472
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54473
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54474
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54475
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54476
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54477
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54478
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54465
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54466
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54467
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54468
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54469
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54470
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54471
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54472
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54473
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54474
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54475
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54476
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54477
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54478
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54479
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54479
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54480
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54480
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54481
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54481
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54482
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54483
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54485
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54482
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54483
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54485
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54486
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54488
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54484
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54486
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54488
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54484
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54487
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54489
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54490
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54491
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54487
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54489
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54490
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54491
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54492
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54493
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54494
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54495
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54492
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54493
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54494
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54495
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54496
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54497
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read header(17, 100, 10018, 65536, 11, 520) from 127.0.0.1:54498
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54496
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54497
+[Wed, 25 Nov 2015 14:01:00 - 78617  - MainThread - DEBUG   ]	read body(hello world) from 127.0.0.1:54498
